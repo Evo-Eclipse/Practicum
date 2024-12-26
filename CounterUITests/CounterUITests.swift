@@ -2,8 +2,6 @@
 //  CounterUITests.swift
 //  CounterUITests
 //
-//  Created by Pavel Komarov on 26.12.2024.
-//
 
 import XCTest
 
